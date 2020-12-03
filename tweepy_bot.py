@@ -47,10 +47,10 @@ with open("quotes.txt", "w") as file:
 
 # Authenticate to Twitter
 
-auth = tweepy.OAuthHandler("sMoA8AXezVoU0N8VZBp7kU9GQ",
-"S3yQYThATrfnfgRucbQsK6qIq1SGFDDlabQE6ERG0cvlUBP6Fg")
-auth.set_access_token("1327826996462841856-oujiUKbB4Dj3giY13EzUNlctLb6A6p",
-"bWiyTozNLf95Dp2iJChGNoNJC30qCJUd7aYVBjkBlpcTw")
+auth = tweepy.OAuthHandler(consumer_key,
+consumer_secret)
+auth.set_access_token(token_key,
+token_secret)
 
 api = tweepy.API(auth)
 
