@@ -8,6 +8,5 @@ For the "auth" variable, enter in your specific account's keys and tokens into t
 
 "quotes.txt" contains all quotes tweeted from the bot and is written into with the quote and author, and then read from by the bot to tweet the quote to the twitter timeline.
 
-Twitter Bot handle:
-@TweepyBot16
+Twitter Bot Profile Link:
 https://twitter.com/TweepyBot16
