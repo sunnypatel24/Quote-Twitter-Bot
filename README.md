@@ -10,3 +10,4 @@ For the "auth" variable, enter in your specific account's keys and tokens into t
 
 Twitter Bot handle:
 @TweepyBot16
+https://twitter.com/TweepyBot16
